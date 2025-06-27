@@ -9,7 +9,7 @@
 1. Clone the repo
 
 ```shell
-git clone https://github.com/GSG-CA/morning-challenge-traffic-lights.git
+git clone [https://github.com/Mohammed-Sbeata/Traffic_Lights.git]
 ```
 
 2. Open the folder in your favourite text editor.
