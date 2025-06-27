@@ -1,4 +1,3 @@
-**Author**: [@finnhodgkin](https://github.com/finnhodgkin)
 
 
 # Traffic light callback challenge:vertical_traffic_light:
